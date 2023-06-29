@@ -1,0 +1,674 @@
+[
+  {
+    "JugadorUno": {
+      "Id": 1,
+      "Nombre": "lautaro",
+      "Apellido": "garcia",
+      "NombreCompleto": "lautaro garcia",
+      "TablaJugador": {
+        "Poker": 40,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 6,
+        "Tres": 6,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 52
+      }
+    },
+    "JugadorDos": {
+      "Id": 2,
+      "Nombre": "martin",
+      "Apellido": "perez",
+      "NombreCompleto": "martin perez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 30,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 10,
+        "Seis": 12,
+        "SumaPuntaje": 52
+      }
+    },
+    "Ganador": "EMPATE",
+    "IdPartida": 1
+  },
+  {
+    "JugadorUno": {
+      "Id": 4,
+      "Nombre": "maria",
+      "Apellido": "abila",
+      "NombreCompleto": "maria abila",
+      "TablaJugador": {
+        "Poker": 40,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 3,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 43
+      }
+    },
+    "JugadorDos": {
+      "Id": 6,
+      "Nombre": "franco",
+      "Apellido": "gonzalez",
+      "NombreCompleto": "franco gonzalez",
+      "TablaJugador": {
+        "Poker": 40,
+        "Full": 30,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 2,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 72
+      }
+    },
+    "Ganador": "franco gonzalez",
+    "IdPartida": 2
+  },
+  {
+    "JugadorUno": {
+      "Id": 1,
+      "Nombre": "lautaro",
+      "Apellido": "garcia",
+      "NombreCompleto": "lautaro garcia",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 10,
+        "Seis": 12,
+        "SumaPuntaje": 22
+      }
+    },
+    "JugadorDos": {
+      "Id": 6,
+      "Nombre": "franco",
+      "Apellido": "gonzalez",
+      "NombreCompleto": "franco gonzalez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 9,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 9
+      }
+    },
+    "Ganador": "lautaro garcia",
+    "IdPartida": 3
+  },
+  {
+    "JugadorUno": {
+      "Id": 5,
+      "Nombre": "juana",
+      "Apellido": "fernandez",
+      "NombreCompleto": "juana fernandez",
+      "TablaJugador": {
+        "Poker": 40,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 6,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 46
+      }
+    },
+    "JugadorDos": {
+      "Id": 3,
+      "Nombre": "pablo",
+      "Apellido": "gonzalez",
+      "NombreCompleto": "pablo gonzalez",
+      "TablaJugador": {
+        "Poker": 40,
+        "Full": 30,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 70
+      }
+    },
+    "Ganador": "pablo gonzalez",
+    "IdPartida": 4
+  },
+  {
+    "JugadorUno": {
+      "Id": 6,
+      "Nombre": "franco",
+      "Apellido": "gonzalez",
+      "NombreCompleto": "franco gonzalez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 30,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 3,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 33
+      }
+    },
+    "JugadorDos": {
+      "Id": 3,
+      "Nombre": "pablo",
+      "Apellido": "gonzalez",
+      "NombreCompleto": "pablo gonzalez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 15,
+        "Seis": 18,
+        "SumaPuntaje": 33
+      }
+    },
+    "Ganador": "Empate",
+    "IdPartida": 5
+  },
+  {
+    "JugadorUno": {
+      "Id": 5,
+      "Nombre": "juana",
+      "Apellido": "fernandez",
+      "NombreCompleto": "juana fernandez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 8,
+        "Cinco": 0,
+        "Seis": 18,
+        "SumaPuntaje": 26
+      }
+    },
+    "JugadorDos": {
+      "Id": 1,
+      "Nombre": "lautaro",
+      "Apellido": "garcia",
+      "NombreCompleto": "lautaro garcia",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 2,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 18,
+        "SumaPuntaje": 20
+      }
+    },
+    "Ganador": "juana fernandez",
+    "IdPartida": 6
+  },
+  {
+    "JugadorUno": {
+      "Id": 5,
+      "Nombre": "juana",
+      "Apellido": "fernandez",
+      "NombreCompleto": "juana fernandez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 30,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 8,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 38
+      }
+    },
+    "JugadorDos": {
+      "Id": 6,
+      "Nombre": "franco",
+      "Apellido": "gonzalez",
+      "NombreCompleto": "franco gonzalez",
+      "TablaJugador": {
+        "Poker": 40,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 2,
+        "Dos": 4,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 46
+      }
+    },
+    "Ganador": "franco gonzalez",
+    "IdPartida": 7
+  },
+  {
+    "JugadorUno": {
+      "Id": 6,
+      "Nombre": "franco",
+      "Apellido": "gonzalez",
+      "NombreCompleto": "franco gonzalez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 30,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 10,
+        "Seis": 0,
+        "SumaPuntaje": 40
+      }
+    },
+    "JugadorDos": {
+      "Id": 5,
+      "Nombre": "juana",
+      "Apellido": "fernandez",
+      "NombreCompleto": "juana fernandez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 8,
+        "Cinco": 10,
+        "Seis": 0,
+        "SumaPuntaje": 18
+      }
+    },
+    "Ganador": "franco gonzalez",
+    "IdPartida": 8
+  },
+  {
+    "JugadorUno": {
+      "Id": 2,
+      "Nombre": "martin",
+      "Apellido": "perez",
+      "NombreCompleto": "martin perez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 9,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 18,
+        "SumaPuntaje": 27
+      }
+    },
+    "JugadorDos": {
+      "Id": 3,
+      "Nombre": "pablo",
+      "Apellido": "gonzalez",
+      "NombreCompleto": "pablo gonzalez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 30,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 6,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 6,
+        "SumaPuntaje": 42
+      }
+    },
+    "Ganador": "pablo gonzalez",
+    "IdPartida": 9
+  },
+  {
+    "JugadorUno": {
+      "Id": 3,
+      "Nombre": "pablo",
+      "Apellido": "gonzalez",
+      "NombreCompleto": "pablo gonzalez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 30,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 10,
+        "Seis": 0,
+        "SumaPuntaje": 40
+      }
+    },
+    "JugadorDos": {
+      "Id": 1,
+      "Nombre": "lautaro",
+      "Apellido": "garcia",
+      "NombreCompleto": "lautaro garcia",
+      "TablaJugador": {
+        "Poker": 40,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 12,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 52
+      }
+    },
+    "Ganador": "lautaro garcia",
+    "IdPartida": 10
+  },
+  {
+    "JugadorUno": {
+      "Id": 4,
+      "Nombre": "maria",
+      "Apellido": "abila",
+      "NombreCompleto": "maria abila",
+      "TablaJugador": {
+        "Poker": 40,
+        "Full": 30,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 70
+      }
+    },
+    "JugadorDos": {
+      "Id": 2,
+      "Nombre": "martin",
+      "Apellido": "perez",
+      "NombreCompleto": "martin perez",
+      "TablaJugador": {
+        "Poker": 40,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 12,
+        "SumaPuntaje": 52
+      }
+    },
+    "Ganador": "maria abila",
+    "IdPartida": 11
+  },
+  {
+    "JugadorUno": {
+      "Id": 6,
+      "Nombre": "franco",
+      "Apellido": "gonzalez",
+      "NombreCompleto": "franco gonzalez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 3,
+        "Dos": 0,
+        "Tres": 9,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 12
+      }
+    },
+    "JugadorDos": {
+      "Id": 5,
+      "Nombre": "juana",
+      "Apellido": "fernandez",
+      "NombreCompleto": "juana fernandez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 30,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 4,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 18,
+        "SumaPuntaje": 52
+      }
+    },
+    "Ganador": "juana fernandez",
+    "IdPartida": 12
+  },
+  {
+    "JugadorUno": {
+      "Id": 1,
+      "Nombre": "lautaro",
+      "Apellido": "garcia",
+      "NombreCompleto": "lautaro garcia",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 50,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 9,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 59
+      }
+    },
+    "JugadorDos": {
+      "Id": 3,
+      "Nombre": "pablo",
+      "Apellido": "gonzalez",
+      "NombreCompleto": "pablo gonzalez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 30,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 6,
+        "Cuatro": 0,
+        "Cinco": 15,
+        "Seis": 0,
+        "SumaPuntaje": 51
+      }
+    },
+    "Ganador": "lautaro garcia",
+    "IdPartida": 13
+  },
+  {
+    "JugadorUno": {
+      "Id": 1,
+      "Nombre": "lautaro",
+      "Apellido": "garcia",
+      "NombreCompleto": "lautaro garcia",
+      "TablaJugador": {
+        "Poker": 40,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 6,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 46
+      }
+    },
+    "JugadorDos": {
+      "Id": 4,
+      "Nombre": "maria",
+      "Apellido": "abila",
+      "NombreCompleto": "maria abila",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 2,
+        "Dos": 0,
+        "Tres": 9,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 11
+      }
+    },
+    "Ganador": "lautaro garcia",
+    "IdPartida": 14
+  },
+  {
+    "JugadorUno": {
+      "Id": 2,
+      "Nombre": "martin",
+      "Apellido": "perez",
+      "NombreCompleto": "martin perez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 0
+      }
+    },
+    "JugadorDos": {
+      "Id": 5,
+      "Nombre": "juana",
+      "Apellido": "fernandez",
+      "NombreCompleto": "juana fernandez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 0,
+        "Seis": 0,
+        "SumaPuntaje": 0
+      }
+    },
+    "Ganador": "",
+    "IdPartida": 15
+  },
+  {
+    "JugadorUno": {
+      "Id": 4,
+      "Nombre": "maria",
+      "Apellido": "abila",
+      "NombreCompleto": "maria abila",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 3,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 15,
+        "Seis": 0,
+        "SumaPuntaje": 18
+      }
+    },
+    "JugadorDos": {
+      "Id": 2,
+      "Nombre": "martin",
+      "Apellido": "perez",
+      "NombreCompleto": "martin perez",
+      "TablaJugador": {
+        "Poker": 0,
+        "Full": 0,
+        "Escalera": 0,
+        "Generala": 0,
+        "Uno": 0,
+        "Dos": 0,
+        "Tres": 0,
+        "Cuatro": 0,
+        "Cinco": 15,
+        "Seis": 0,
+        "SumaPuntaje": 15
+      }
+    },
+    "Ganador": "maria abila",
+    "IdPartida": 16
+  }
+]

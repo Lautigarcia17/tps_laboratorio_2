@@ -1,0 +1,23 @@
+[
+  {
+    "Nombre": "Lautaro",
+    "Apellido": "Garcia",
+    "Dni": 45040166,
+    "Edad": 19,
+    "Equipaje": "bolso de mano"
+  },
+  {
+    "Nombre": "Emanuel",
+    "Apellido": "Garcia",
+    "Dni": 46045326,
+    "Edad": 21,
+    "Equipaje": "bolso de mano"
+  },
+  {
+    "Nombre": "Julio",
+    "Apellido": "Garcia",
+    "Dni": 32034326,
+    "Edad": 51,
+    "Equipaje": "bolso de mano y valija 21kg"
+  }
+]

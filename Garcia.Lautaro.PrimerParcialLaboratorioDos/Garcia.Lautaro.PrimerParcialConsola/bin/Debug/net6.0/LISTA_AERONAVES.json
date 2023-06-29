@@ -1,0 +1,38 @@
+[
+  {
+    "CantidadVuelos": 2,
+    "Matricula": "KUZ5JU52",
+    "CantidadAsientos": 220,
+    "CantidadBanios": 3,
+    "OfreceInternet": true,
+    "OfreceComida": true,
+    "CapacidadBodega": 370
+  },
+  {
+    "CantidadVuelos": 2,
+    "Matricula": "YTLAKGY7",
+    "CantidadAsientos": 190,
+    "CantidadBanios": 2,
+    "OfreceInternet": true,
+    "OfreceComida": false,
+    "CapacidadBodega": 330
+  },
+  {
+    "CantidadVuelos": 2,
+    "Matricula": "5P3Q6B07",
+    "CantidadAsientos": 170,
+    "CantidadBanios": 3,
+    "OfreceInternet": false,
+    "OfreceComida": true,
+    "CapacidadBodega": 340
+  },
+  {
+    "CantidadVuelos": 2,
+    "Matricula": "KO0WYH50",
+    "CantidadAsientos": 250,
+    "CantidadBanios": 3,
+    "OfreceInternet": false,
+    "OfreceComida": false,
+    "CapacidadBodega": 400
+  }
+]
